@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/reddit-word-cloud/static/css/main.6931bea6.chunk.css",
+    "main.js": "/reddit-word-cloud/static/js/main.19cd18d7.chunk.js",
+    "main.js.map": "/reddit-word-cloud/static/js/main.19cd18d7.chunk.js.map",
+    "runtime-main.js": "/reddit-word-cloud/static/js/runtime-main.917d1736.js",
+    "runtime-main.js.map": "/reddit-word-cloud/static/js/runtime-main.917d1736.js.map",
+    "static/js/2.392560f4.chunk.js": "/reddit-word-cloud/static/js/2.392560f4.chunk.js",
+    "static/js/2.392560f4.chunk.js.map": "/reddit-word-cloud/static/js/2.392560f4.chunk.js.map",
+    "index.html": "/reddit-word-cloud/index.html",
+    "precache-manifest.dc5ceca24ea8e550ce7e9bf18df2a0d1.js": "/reddit-word-cloud/precache-manifest.dc5ceca24ea8e550ce7e9bf18df2a0d1.js",
+    "service-worker.js": "/reddit-word-cloud/service-worker.js",
+    "static/css/main.6931bea6.chunk.css.map": "/reddit-word-cloud/static/css/main.6931bea6.chunk.css.map",
+    "static/js/2.392560f4.chunk.js.LICENSE.txt": "/reddit-word-cloud/static/js/2.392560f4.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/reddit-word-cloud/static/media/logo.3d50e7f9.png",
+    "static/media/logo.svg": "/reddit-word-cloud/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.917d1736.js",
+    "static/js/2.392560f4.chunk.js",
+    "static/css/main.6931bea6.chunk.css",
+    "static/js/main.19cd18d7.chunk.js"
+  ]
+}
